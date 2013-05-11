@@ -1,0 +1,861 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sho",
+				"show_tasks"
+			],
+			[
+				"im",
+				"im_namecell_num"
+			],
+			[
+				"conta",
+				"contact_profile"
+			],
+			[
+				"resource",
+				"resource_profile"
+			],
+			[
+				"is",
+				"is_partner"
+			],
+			[
+				"not",
+				"notes_placeholder"
+			],
+			[
+				"short",
+				"shortlist_placeholder"
+			],
+			[
+				"cancel",
+				"cancel_resource_request"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 279,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gl.sublime-project",
+			"settings":
+			{
+				"buffer_size": 103,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 276,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"andrew",
+				"Andrew: New Android Project"
+			],
+			[
+				"outer		",
+				"Snippet: output ERB tags"
+			],
+			[
+				"image",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"emmet",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"emme",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"eva",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"split",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"emmetren",
+				"Emmet: Rename Tag"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"fetc",
+				"Fetch: Manage"
+			],
+			[
+				"fethc",
+				"Fetch: Package"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jarad.delorenzo/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Applications/MAMP/htdocs/skill_web/app/views/admin/employer_manager.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/app/views/manage/_resource_search.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/admin/_hr.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/admin/hr.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/ep/_allocate.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/app/views/ep/_project_list.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/models/task_profile.rb",
+		"/Applications/MAMP/htdocs/skill_web/app/controllers/ep_controller.rb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/layouts/_header.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/app/views/layouts/nav/_portals.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/app/views/ep/res_overview.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/assets/js/sw/manage/task_overview/main.js",
+		"/Applications/MAMP/htdocs/skill_web/assets/less/custom.less",
+		"/Applications/MAMP/htdocs/skill_web/app/views/manage/_resource_search_row.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/partial/_pm_res_overview.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/manage/_task_overview_row.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/partial/_pm_res_overview.html.erb (copy)",
+		"/Applications/MAMP/htdocs/skill_web/app/views/manage/_task_overview.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/ep/add_experience.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/assets/js/sw/skillweb.js",
+		"/Applications/MAMP/htdocs/skill_web/assets/js/sw/ep/add_experience/main.js",
+		"/Applications/MAMP/htdocs/skill_web/app/views/partial/_task_edit_popup.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/config/initializers/skills_update_scheduler.rb",
+		"/Applications/MAMP/htdocs/skill_web/config/environment.rb",
+		"/Applications/MAMP/htdocs/skill_web/app/controllers/alpha_controller.rb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/partial/_pm_res_assigned_tasks.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/partial/_pm_res_comp_tasks.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/partial/_pm_res_feedback.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/ep/ob_step_2.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/assets/js/sw/dashboard/list/main.js",
+		"/Applications/MAMP/htdocs/skill_web/app/views/partial/_event_table.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/app/views/partial/_proj_table.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/app/controllers/projects_controller.rb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/projects/_form.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/app/views/partial/_task_create.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/tasks/_form.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/assets/js/sw/admin/dashboard/main.js",
+		"/Applications/MAMP/htdocs/prescriptsy/data/rules.json",
+		"/Users/jarad.delorenzo/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Applications/MAMP/htdocs/skill_web/app/models/contact_profile.rb",
+		"/Applications/MAMP/htdocs/skill_web/lib/task_status_state_machine.rb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/manage/_task_overview_results.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/manage/_resource_search_results.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/manage/_task_requirements.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/ex/emp_overview.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/app/views/partial/_contact_stats.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/ep/_about_me.html.erb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/manage/view_profile.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/public/javascripts/application.js",
+		"/Applications/MAMP/htdocs/skill_web/assets/js/lib/jeditable.js",
+		"/Applications/MAMP/htdocs/skill_web/public/scripts/sagepoint.js",
+		"/Applications/MAMP/htdocs/skill_web/app/views/projects/_new.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/app/views/partial/_resource_skills_table.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/app/controllers/tasks_controller.rb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/layouts/nav/_main_nav.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/app/views/partial/_task_matches.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/app/models/address.rb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/account/login.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/app/views/account/logout.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/app/controllers/account_controller.rb",
+		"/Applications/MAMP/htdocs/skill_web/app/views/projects/list.rhtml",
+		"/Applications/MAMP/htdocs/skill_web/app/models/event.rb",
+		"/Applications/MAMP/htdocs/skill_web/app/models/resource_profile.rb",
+		"/Applications/MAMP/htdocs/skill_web/skill_web.sublime_project",
+		"/Applications/MAMP/htdocs/skill_web/config/database.yml",
+		"/Applications/MAMP/htdocs/skill_web/assets/js/lib/bootstrap/bootstrap-zpopover.js",
+		"/Applications/MAMP/htdocs/skill_web/grunt.js",
+		"/Applications/MAMP/htdocs/skill_web/assets/js/libs.js",
+		"/Applications/MAMP/htdocs/skill_web/public/js/libs.js",
+		"/Applications/MAMP/htdocs/skill_web/public/js/lib/bootstrap/bootstrap-popover.js",
+		"/Applications/MAMP/htdocs/skill_web/package.json",
+		"/Users/jarad.delorenzo/code/opencv/sandbox/video.cpp",
+		"/Users/jarad.delorenzo/code:opencv:sandbox:load.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/skill_web"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"27",
+			"Peter",
+			"hrContainer",
+			"showAdminPane",
+			"showAdminPanel",
+			"main_nav_ad",
+			"search_hi",
+			"search_hits",
+			"setNeedsUpdate",
+			"Delete ",
+			"allocate",
+			"project.mine?",
+			"add_expe",
+			"Historic",
+			"session[\"user\"]",
+			"session.user",
+			"live_user_search",
+			"rerate",
+			"Resource",
+			"setNeedsUpdate",
+			"sendExpUpdate",
+			"btnSub",
+			"alert(\"hi",
+			"\"hi\"",
+			"projects_con",
+			"projects_container",
+			"modal-con",
+			"Create",
+			"btn",
+			"Create a new assignment",
+			"\n",
+			"REQUIREMENTS",
+			"class",
+			"actions",
+			"div",
+			"class",
+			"group",
+			"rounded",
+			"short",
+			"Assign</button>",
+			"back to summary",
+			"width: 960",
+			"title",
+			"task_status",
+			"is_par",
+			"isPartner",
+			"CONTACT INFORMATION",
+			"orange",
+			"Assign",
+			"treeview_group",
+			"match_resul",
+			"users",
+			"delete_task",
+			"edit",
+			"my profile",
+			"Name",
+			"my profile",
+			"edittext right",
+			"Resource statistics",
+			"Tasks without",
+			"div class=\"left\"",
+			"Displa",
+			"div class=\"left",
+			"div class\"left",
+			"Displaying \\\"",
+			"Displaying \"",
+			"Displaying all",
+			"Displaying",
+			"displaying",
+			"my projects",
+			"header_content",
+			"def task_edit",
+			"task_edit",
+			"editable",
+			"a.edit",
+			"Click to edit",
+			"to edit",
+			"btnCreateProject",
+			"fn.colorbox",
+			"render",
+			"partial",
+			"\"new\"",
+			"\\\"new\\\"",
+			"Create a new project",
+			"colorbox",
+			"ASSIGNED TASKS",
+			"ASSIGNED TASK",
+			"delete",
+			"match_results",
+			"def get_m",
+			"resource_search",
+			"def reject",
+			"submitted",
+			"submission",
+			"def approve",
+			"resource_request",
+			"def cancel",
+			"lock",
+			"update_tas",
+			"resource_profile.id",
+			"Table_Title",
+			"search-result",
+			"footer",
+			"pmRatingContainer",
+			"task_tutori",
+			"task_",
+			"search_for_resource",
+			"task_profile",
+			"project",
+			"set_skill_impor",
+			"weight =",
+			"weight",
+			"skill_weight",
+			"update_req",
+			"TOOLTIP",
+			"dep",
+			"dep-",
+			"tooltip",
+			"Popover",
+			"proto"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"//setNeedsUpdate",
+			"mine",
+			"yellow"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gl.sublime-project",
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "main.js",
+					"settings":
+					{
+						"buffer_size": 276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								270
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main_nave",
+				"app/views/layouts/nav/_main_nav_ep.rhtml"
+			],
+			[
+				"navadm",
+				"app/views/layouts/nav/_main_nav_ad.rhtml"
+			],
+			[
+				"cust",
+				"assets/less/custom.less"
+			],
+			[
+				"ep_con",
+				"app/controllers/ep_controller.rb"
+			],
+			[
+				"epman",
+				"app/views/admin/employer_manager.rhtml"
+			],
+			[
+				"project_",
+				"app/views/ep/_project_list.html.erb"
+			],
+			[
+				"obw",
+				"public/javascripts/obw.js"
+			],
+			[
+				"portals",
+				"app/views/layouts/nav/_portals.rhtml"
+			],
+			[
+				"ep",
+				"app/controllers/ep_controller.rb"
+			],
+			[
+				"taskpro",
+				"app/models/task_profile.rb"
+			],
+			[
+				"_prolis",
+				"app/views/ep/_project_list.html.erb"
+			],
+			[
+				"allo",
+				"app/views/ep/_allocate.rhtml"
+			],
+			[
+				"resourcesea",
+				"app/views/manage/_resource_search.html.erb"
+			],
+			[
+				"controller",
+				"app/controllers/alpha_controller.rb"
+			],
+			[
+				"mana",
+				"app/controllers/manage_controller.rb"
+			],
+			[
+				"taskedipop",
+				"app/views/partial/_task_edit_popup.html.erb"
+			],
+			[
+				"main.js",
+				"assets/js/sw/ep/add_experience/main.js"
+			],
+			[
+				"skillwe",
+				"assets/js/sw/skillweb.js"
+			],
+			[
+				"_all",
+				"app/views/ep/_allocate.rhtml"
+			],
+			[
+				"_form",
+				"app/views/tasks/_form.rhtml"
+			],
+			[
+				"projectcon",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"task_cre",
+				"app/views/partial/_task_create.html.erb"
+			],
+			[
+				"task_edit_pr",
+				"app/views/partial/_task_edit_popup.html.erb"
+			],
+			[
+				"custom",
+				"assets/less/custom.less"
+			],
+			[
+				"_taskedi",
+				"app/views/partial/_task_edit_popup.html.erb"
+			],
+			[
+				"epcon",
+				"app/controllers/ep_controller.rb"
+			],
+			[
+				"form.",
+				"app/views/projects/_form.rhtml"
+			],
+			[
+				"projecon",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"projtab",
+				"app/views/partial/_proj_table.rhtml"
+			],
+			[
+				"eventta",
+				"app/views/partial/_event_table.rhtml"
+			],
+			[
+				"dashmain",
+				"assets/js/sw/admin/dashboard/main.js"
+			],
+			[
+				"taskmain",
+				"assets/js/sw/manage/task_overview/main.js"
+			],
+			[
+				"_allo",
+				"app/views/ep/_allocate.rhtml"
+			],
+			[
+				"obstep2",
+				"app/views/ep/ob_step_2.rhtml"
+			],
+			[
+				"taskover",
+				"app/views/manage/_task_overview.html.erb"
+			],
+			[
+				"taskov",
+				"app/views/manage/_task_overview.html.erb"
+			],
+			[
+				"main",
+				"assets/js/sw/manage/task_overview/main.js"
+			],
+			[
+				"resassign",
+				"app/views/partial/_pm_res_assigned_tasks.html.erb"
+			],
+			[
+				"pm_resfeed",
+				"app/views/partial/_pm_res_feedback.html.erb"
+			],
+			[
+				"pmrescom",
+				"app/views/partial/_pm_res_comp_tasks.html.erb"
+			],
+			[
+				"pm_res_as",
+				"app/views/partial/_pm_res_assigned_tasks.html.erb"
+			],
+			[
+				"contac",
+				"app/models/contact_profile.rb"
+			],
+			[
+				"_pm_old",
+				"app/views/partial/_pm_res_overview.old.html.erb"
+			],
+			[
+				"task_over",
+				"app/views/manage/_task_overview.html.erb"
+			],
+			[
+				"pm_res_over",
+				"app/views/partial/_pm_res_overview.html.erb"
+			],
+			[
+				"manage",
+				"app/controllers/manage_controller.rb"
+			],
+			[
+				"cus",
+				"assets/less/custom.less"
+			],
+			[
+				"state",
+				"lib/task_status_state_machine.rb"
+			],
+			[
+				"taskoverro",
+				"app/views/manage/_task_overview_row.html.erb"
+			],
+			[
+				"taskoverr",
+				"app/views/manage/_task_overview_results.html.erb"
+			],
+			[
+				"resource_se",
+				"app/views/manage/_resource_search.html.erb"
+			],
+			[
+				"resoursearo",
+				"app/views/manage/_resource_search_row.html.erb"
+			],
+			[
+				"_resourcesea",
+				"app/views/manage/_resource_search_results.html.erb"
+			],
+			[
+				"man",
+				"app/controllers/manage_controller.rb"
+			],
+			[
+				"custo",
+				"assets/less/custom.less"
+			],
+			[
+				"list",
+				"app/views/projects/list.rhtml"
+			],
+			[
+				"login",
+				"app/views/account/login.rhtml"
+			],
+			[
+				"acc",
+				"app/controllers/account_controller.rb"
+			],
+			[
+				"logout",
+				"app/views/account/logout.rhtml"
+			],
+			[
+				"nav",
+				"app/views/layouts/nav/_main_nav.rhtml"
+			],
+			[
+				"taskcon",
+				"app/controllers/tasks_controller.rb"
+			],
+			[
+				"manag",
+				"app/controllers/manage_controller.rb"
+			],
+			[
+				"task_o",
+				"app/views/manage/_task_overview.html.erb"
+			],
+			[
+				"addr",
+				"app/models/address.rb"
+			],
+			[
+				"_match",
+				"app/views/partial/_task_matches.rhtml"
+			],
+			[
+				"even.",
+				"app/models/event.rb"
+			],
+			[
+				"tasksta",
+				"lib/task_status_state_machine.rb"
+			],
+			[
+				"",
+				"assets/less/custom.less"
+			],
+			[
+				"resource",
+				"app/models/resource_profile.rb"
+			],
+			[
+				"overview_row",
+				"app/views/manage/_task_overview_row.html.erb"
+			],
+			[
+				"task_pro",
+				"app/models/task_profile.rb"
+			],
+			[
+				"taskoverjs",
+				"assets/js/sw/manage/task_overview/main.js"
+			],
+			[
+				"skilljs",
+				"assets/js/sw/skillweb.js"
+			],
+			[
+				"skill_re",
+				"app/views/partial/_skill_requirements.html.erb"
+			],
+			[
+				"tasko",
+				"app/views/manage/_task_overview.html.erb"
+			],
+			[
+				"libs",
+				"public/js/libs.js"
+			],
+			[
+				"boopop",
+				"assets/js/lib/bootstrap/bootstrap-popover.js"
+			],
+			[
+				"pop",
+				"public/js/lib/bootstrap/bootstrap-popover.js"
+			],
+			[
+				"grunt",
+				"grunt.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"config",
+				"config/database.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true
+}
